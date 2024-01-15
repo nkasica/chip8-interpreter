@@ -1,6 +1,6 @@
 # CHIP-8 Interpreter
 
-CHIP-8 is an interpreted programming language, originally created by Joseph Weisbecker for the [COSMAC VIP](https://en.wikipedia.org/wiki/COSMAC_VIP) and [Telmac 1800](https://en.wikipedia.org/wiki/Telmac_1800) microcomputers in the mid-1970s. It was originally created to allow video games to be more easily developed for these systems. Many classic games such as Pong, Space Invaders, Tetris, and Brix were ported to the CHIP-8. Even today, games are still being developed to be played on interpreters through [Octo](https://johnearnest.github.io/Octo/)! 
+CHIP-8 is an interpreted programming language, originally created by Joseph Weisbecker for the [COSMAC VIP](https://en.wikipedia.org/wiki/COSMAC_VIP) and [Telmac 1800](https://en.wikipedia.org/wiki/Telmac_1800) microcomputers in the mid-1970s. It was originally created to allow video games to be more easily developed for these systems. Many classic games such as Pong, Space Invaders, Tetris, and Brix were ported to the CHIP-8. Even today, games are still being developed to be played on interpreters through [Octo](https://github.com/JohnEarnest/Octo)! 
 
 ## Description
 
