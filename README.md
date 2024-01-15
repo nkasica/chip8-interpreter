@@ -10,7 +10,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* [SDL2](https://github.com/libsdl-org/SDL/releases/tag/release-2.28.5)
 
 ### Installing
 
