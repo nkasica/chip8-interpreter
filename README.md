@@ -41,14 +41,8 @@ To run the executable, use the following command:
 Here are some other useful features to use while emulating:
 * Pause / Unpause emulation (space bar)
 * Exit (Esc)
-* Lower Volume
-```
--
-```
-* Raise Volume
-```
-=
-```
+* Lower Volume (-)
+* Raise Volume (=)
 
 ## License
 
