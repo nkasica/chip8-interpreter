@@ -32,8 +32,11 @@ make debug
 make clean
 ```
 
-### Running the Program
-
+### Usage
+To run the executable, use the following command:
+```
+./main.exe <ROM/PATH.ch8>
+```
 
 ## License
 
