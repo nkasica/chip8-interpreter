@@ -13,10 +13,6 @@ An in-depth paragraph about your project and overview of use.
 * [SDL2](https://github.com/libsdl-org/SDL/releases/tag/release-2.28.5)
 * [MinGW-w64](https://www.mingw-w64.org/downloads/)
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Compilation
 
