@@ -41,6 +41,11 @@ Here are some other useful features to use while emulating:
 * Lower Volume (-)
 * Raise Volume (=)
 
+### Keypad
+
+![image](https://github.com/nkasica/chip8-interpreter/assets/156490730/caf5660b-2639-48c8-af8e-07c1b8855e44)
+
+
 ## Very Helpful Resources!
 
 * [CHIP-8 Wiki](https://en.wikipedia.org/wiki/CHIP-8)
