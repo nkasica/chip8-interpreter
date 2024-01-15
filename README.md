@@ -1,0 +1,49 @@
+# CHIP-8 Interpreter
+
+What is CHIP-8? CHIP-8 is an interpreted programming language, originally created by Joseph Weisbecker for the [COSMAC VIP](https://en.wikipedia.org/wiki/COSMAC_VIP) microcomputer.
+
+
+
+## Description
+
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started
+
+### Dependencies
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* Type "make" in the terminal to create an executable
+```
+make
+```
+* Alternatively, type "make debug" if you want to enable debugging outputs while the program runs
+```
+make debug
+```
+* To remove the executable, type "make clean"
+```
+make clean
+```
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Very Helpful Resources!
+
+* [CHIP-8 Wiki](https://en.wikipedia.org/wiki/CHIP-8)
+* [SDL Wiki](https://wiki.libsdl.org/SDL2/APIByCategory)
+* [Tobias' Guide](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
+* [Cowgod's Technical Reference] (http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
+* [Sound Design](https://blog.tigris.fr/2020/05/13/writing-an-emulator-sound-is-complicated/)
+* [Queso Fuego's CHIP-8 Youtube Series](https://www.youtube.com/playlist?list=PLT7NbkyNWaqbyBMzdySdqjnfUFxt8rnU_)https://www.youtube.com/playlist?list=PLT7NbkyNWaqbyBMzdySdqjnfUFxt8rnU_)
