@@ -44,10 +44,6 @@ Here are some other useful features to use while emulating:
 * Lower Volume (-)
 * Raise Volume (=)
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
 ## Very Helpful Resources!
 
 * [CHIP-8 Wiki](https://en.wikipedia.org/wiki/CHIP-8)
