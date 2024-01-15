@@ -19,15 +19,15 @@ An in-depth paragraph about your project and overview of use.
 
 ### Compilation
 
-* Type "make" in the terminal to create an executable
+Type "make" in the terminal to create an executable
 ```
 make
 ```
-* Alternatively, type "make debug" if you want to enable debugging outputs while the program runs
+Alternatively, type "make debug" if you want to enable debugging outputs while the program runs
 ```
 make debug
 ```
-* To remove the executable, type "make clean"
+To remove the executable, type "make clean"
 ```
 make clean
 ```
@@ -36,6 +36,12 @@ make clean
 To run the executable, use the following command:
 ```
 ./main.exe <ROM/PATH.ch8>
+```
+
+Here are some other useful features to use while emulating:
+* Pause / Unpause emulation (space bar)
+```
+ 
 ```
 
 ## License
