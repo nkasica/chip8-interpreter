@@ -49,6 +49,6 @@ Here are some other useful features to use while emulating:
 * [CHIP-8 Wiki](https://en.wikipedia.org/wiki/CHIP-8)
 * [SDL Wiki](https://wiki.libsdl.org/SDL2/APIByCategory)
 * [Tobias' Guide](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
-* [Cowgod's Technical Reference] (http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
+* [Cowgod's Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
 * [Sound Design](https://blog.tigris.fr/2020/05/13/writing-an-emulator-sound-is-complicated/)
 * [Queso Fuego's CHIP-8 Youtube Series](https://www.youtube.com/playlist?list=PLT7NbkyNWaqbyBMzdySdqjnfUFxt8rnU_)
