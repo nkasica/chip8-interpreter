@@ -24,7 +24,7 @@ Brix -- Play [video](https://clipchamp.com/watch/XajaOpQlwdl) to hear sound!
 
 ### Compilation
 
-Type "make" in the terminal to create an executable
+Type 'make' in the terminal to create an executable
 ```
 make
 ```
