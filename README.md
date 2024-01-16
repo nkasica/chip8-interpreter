@@ -42,7 +42,8 @@ Here are some other useful features to use while emulating:
 * Raise Volume (=)
 
 ### Keypad
-This image describes how a QWERTY keyboard is translated into the hexadecimal keypad from the original CHIP-8 systems.
+This image describes how a QWERTY keyboard is translated into the hexadecimal keypad from the original CHIP-8 systems
+
 ![image](https://github.com/nkasica/chip8-interpreter/assets/156490730/cf6abc7f-258e-4340-8ca9-845fcde12187)
 
 
