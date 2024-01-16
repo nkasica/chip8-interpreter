@@ -12,15 +12,7 @@ Tetris (Ignore my cursor 😅)
 
 ![tetris](https://github.com/nkasica/chip8-interpreter/assets/156490730/9b15e6e7-763e-45b6-b8d6-ab7b6325b01c)
 
-Brix -- Play video to hear sound!
-
-<div style="position:relative;width:fit-content;height:fit-content;">
-            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/XajaOpQlwdl?utm_source=embed&utm_medium=embed&utm_campaign=watch">
-                <img loading="lazy" style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-            </a>
-            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/XajaOpQlwdl/embed" width="640" height="360"></iframe>
-        </div>
-
+Brix -- Play [video](https://clipchamp.com/watch/XajaOpQlwdl) to hear sound!
 
 
 ## Getting Started
