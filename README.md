@@ -8,7 +8,7 @@ Splash Screen
 
 ![image](https://github.com/nkasica/chip8-interpreter/assets/156490730/6c6926a3-047e-4add-b4e6-8931ac04ddcd)
 
-Tetris 
+Tetris (Ignore my cursor 😅)
 
 ![tetris](https://github.com/nkasica/chip8-interpreter/assets/156490730/9b15e6e7-763e-45b6-b8d6-ab7b6325b01c)
 
