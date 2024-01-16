@@ -5,6 +5,7 @@ CHIP-8 is an interpreted programming language, originally created by Joseph Weis
 ## Images and GIFs
 
 Splash Screen
+Timendus' test suite, found [here](https://github.com/Timendus/chip8-test-suite?tab=readme-ov-file#corax-opcode-test), has _incredible_ resources for testing, most of which I used when testing my own interpreter. Check it out!
 
 ![image](https://github.com/nkasica/chip8-interpreter/assets/156490730/6c6926a3-047e-4add-b4e6-8931ac04ddcd)
 
