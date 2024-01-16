@@ -10,7 +10,7 @@ Splash Screen
 
 Tetris 
 
-![tetris](https://github.com/nkasica/chip8-interpreter/assets/156490730/3f849b73-ecd0-4dc4-a6e7-9eee63ed64a6)
+![tetris](https://github.com/nkasica/chip8-interpreter/assets/156490730/9b15e6e7-763e-45b6-b8d6-ab7b6325b01c)
 
 ## Getting Started
 
