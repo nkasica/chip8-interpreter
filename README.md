@@ -4,7 +4,13 @@ CHIP-8 is an interpreted programming language, originally created by Joseph Weis
 
 ## Images and GIFs
 
-An in-depth paragraph about your project and overview of use.
+Splash Screen
+
+![image](https://github.com/nkasica/chip8-interpreter/assets/156490730/6d29d71c-6f0b-413a-9800-e39a385670c2)
+
+Tetris GIF
+
+![tetris](https://github.com/nkasica/chip8-interpreter/assets/156490730/3f849b73-ecd0-4dc4-a6e7-9eee63ed64a6)
 
 ## Getting Started
 
