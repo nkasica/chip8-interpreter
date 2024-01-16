@@ -24,18 +24,11 @@ Brix -- Play [video](https://clipchamp.com/watch/XajaOpQlwdl) to hear sound!
 
 ### Compilation
 
-Type 'make' in the terminal to create an executable
-```
-make
-```
-Alternatively, type "make debug" if you want to enable debugging outputs while the program runs
-```
-make debug
-```
-To remove the executable, type "make clean"
-```
-make clean
-```
+Type `make` in the terminal to create an executable
+
+Alternatively, type `make debug` if you want to enable debugging outputs while the program runs
+
+To remove the executable, type `make clean`
 
 ### Usage
 To run the executable, use the following command:
