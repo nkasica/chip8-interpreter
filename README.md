@@ -14,7 +14,6 @@ Tetris (Ignore my cursor 😅)
 
 Brix -- Play [video](https://clipchamp.com/watch/XajaOpQlwdl) to hear sound!
 
-
 ## Getting Started
 
 ### Dependencies
