@@ -43,7 +43,8 @@ Here are some other useful features to use while emulating:
 
 ### Keypad
 This image describes how a QWERTY keyboard is translated into the hexadecimal keypad from the original CHIP-8 systems.
-<img keypad="https://cdn.hashnode.com/res/hashnode/image/upload/v1663500447801/JuvoQmwOy.png?auto=compress,format&format=webp" width="530" height="264">
+![image](https://github.com/nkasica/chip8-interpreter/assets/156490730/cf6abc7f-258e-4340-8ca9-845fcde12187)
+
 
 
 ## Very Helpful Resources!
