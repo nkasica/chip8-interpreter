@@ -13,8 +13,6 @@ Tetris (Ignore my cursor 😅)
 
 ![tetris](https://github.com/nkasica/chip8-interpreter/assets/156490730/9b15e6e7-763e-45b6-b8d6-ab7b6325b01c)
 
-Brix -- Play [video](https://clipchamp.com/watch/XajaOpQlwdl) to hear sound!
-
 ## Getting Started
 
 ### Dependencies
